@@ -141,7 +141,7 @@ http://localhost:5173
 ## API Proof & Logs
 
 * API request screenshots are included in the `api-proof/` folder
-* Backend startup logs are provided as screenshots/log files
+* Backend startup logs are provided in the `api-proof/` folder
 
 ---
 
