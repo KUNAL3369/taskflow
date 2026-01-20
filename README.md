@@ -1,5 +1,4 @@
-Here is a **final, clean, human-written README** you can copy-paste directly.
-It is **complete, natural, recruiter-friendly, and assignment-ready**.
+
 
 ---
 
@@ -10,8 +9,6 @@ TaskFlow is a full-stack web application that demonstrates secure authentication
 The project focuses on clean UI, proper frontend–backend integration, and real-world security practices using JWT.
 
 
----
-
 ## Features
 
 - User registration and login
@@ -21,7 +18,6 @@ The project focuses on clean UI, proper frontend–backend integration, and real
 - Responsive and modern UI
 - Secure backend with hashed passwords
 
----
 
 ## Tech Stack
 
@@ -37,11 +33,9 @@ The project focuses on clean UI, proper frontend–backend integration, and real
 - JWT Authentication
 - bcrypt for password hashing
 
----
+
 
 ## Project Structure
-
-```
 
 frontend/
 ├── src/
@@ -59,9 +53,8 @@ backend/
 ├── server.js
 └── .env (not committed)
 
-```
 
----
+
 
 ## API Endpoints
 
@@ -91,13 +84,12 @@ Authorization: <JWT_TOKEN>
 
 ````
 
----
 
 ## Getting Started
 
 ### Backend Setup
 
-```bash
+
 cd backend
 npm install
 npm run dev
